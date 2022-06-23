@@ -1,4 +1,4 @@
-# Menu
+# Recipe App
 ## Material
 Tutorial [Dev Ed](https://www.youtube.com/watch?v=xc4uOzlndAk). 
 ## Technologies
